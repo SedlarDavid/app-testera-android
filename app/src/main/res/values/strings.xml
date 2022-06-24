@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Testera</string>
+    <string name="power_management_activity">Power management activity</string>
+    <string name="power_management">Power management</string>
 </resources>
