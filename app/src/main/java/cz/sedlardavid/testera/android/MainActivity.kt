@@ -24,6 +24,13 @@ class MainActivity : AppCompatActivity() {
                         R.string.power_management,
                     )
                 )
+                ButtonMain(
+                    MainButtonData(
+                        this@MainActivity,
+                        CredentialsManagerActivity::class.java,
+                        R.string.credentials_manager,
+                    )
+                )
             })
         }
 

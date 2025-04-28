@@ -2,4 +2,6 @@
     <string name="app_name">Testera</string>
     <string name="power_management_activity">Power management activity</string>
     <string name="power_management">Power management</string>
+    <string name="credentials_manager_activity">Credentials manager activity</string>">
+    <string name="credentials_manager">Credentials manager</string>
 </resources>
