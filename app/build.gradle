@@ -5,6 +5,7 @@ plugins {
 
 android {
     compileSdk 32
+    namespace = "cz.sedlardavid.testera.android"
 
     defaultConfig {
         applicationId "cz.sedlardavid.testera.android"
